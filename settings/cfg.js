@@ -1,9 +1,9 @@
 global.owner = [
-  "628155612904", //ganti nomor owner
+  "492713876676", //ganti nomor owner
   "" //nomor owner kedua kalo ada
 ]
-global.nomorbot = '62xxx'
-global.urlfoto = 'https://'
+global.nomorbot = '492713876676'
+global.urlfoto = 'https://wallpapercave.com/w/wp10565455'
 
 let fs = require('fs')
 let file = require.resolve(__filename)
