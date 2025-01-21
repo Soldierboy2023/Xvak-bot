@@ -2,7 +2,7 @@ global.owner = [
   "492713876676", //ganti nomor owner
   "" //nomor owner kedua kalo ada
 ]
-global.nomorbot = '492713876676'
+global.nomorbot = '4915172861284'
 global.urlfoto = 'https://wallpapercave.com/w/wp10565455'
 
 let fs = require('fs')
